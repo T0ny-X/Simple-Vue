@@ -1,6 +1,5 @@
-# cs601_hw6_xiang
-
-This template should help get you started developing with Vue 3 in Vite.
+## Simple Vue
+This is a simple Vue app that detects hover and loop the picture, like a slide show.
 
 ## Recommended IDE Setup
 
